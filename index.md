@@ -9,4 +9,4 @@ We are the Group 12. Our group members are:
 5. [Mustafa Şahin Çakır](https://github.com/msahincakir)
 
 ### Project Part 1
-[Here](https://github.com/BU-IE-582/fall19-berkaykocakk/files/project%20description.pdf) is the project description.
+[Here](files/project%20description.pdf) is the project description.
