@@ -8,5 +8,4 @@ We are the Group 12. Our group members are:
 5. Mustafa Şahin Çakır
 
 Project Part 1
-... is our Project Part 1.
-
+............... is our Project Part 1.
