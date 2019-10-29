@@ -4,7 +4,7 @@
 We are the Group 12. Our group members are:
 1. Ahmet Ünler
 2. Alp Arda Seyhan
-3. Ataberk Sevim
+3. [Ataberk Sevim](https://github.com/ataberk-sevim-2016402087)
 4. [Berkay Koçak](https://github.com/berkaykocakk)
 5. [Mustafa Şahin Çakır](https://github.com/msahincakir)
 
