@@ -6,3 +6,7 @@ We are the Group 12. Our group members are:
 3. Ataberk Sevim
 4. Berkay Koçak
 5. Mustafa Şahin Çakır
+
+Project Part 1
+... is our Project Part 1.
+
