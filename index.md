@@ -11,3 +11,7 @@ We are the Group 12. Our group members are:
 ### Project Part 1
 [Here](files/project%20description.pdf) is the project description.
 You can find related Jupyter Notebook solution of this project [here](files/IE423ProjectFirstSubmission.html).
+
+### Project Part 2
+[Here](files/IE423_Fall19_ProjectPart2.pdf) is the project description.
+You can find related Jupyter Notebook solution of this project [here](files/bitti-423%20(1).html).
