@@ -18,4 +18,4 @@ You can find related Jupyter Notebook solution of this project [here](files/bitt
 
 ### Project Part 3
 [Here](files/IE423_Fall19_ProjectPart3.pdf) is the project description.
-You can find related Jupyter Notebook solution of this project [here](files/part3bitti (1).html).
+You can find related Jupyter Notebook solution of this project [here](files/part3bitti%20(1).html).
